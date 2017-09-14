@@ -6,4 +6,8 @@ Inspired by [The Inebriator](https://www.theinebriator.com/) (an Arduino based c
 We'll only be using good value, readily available parts with a focus on as many parts as possible being 3D printed.
 
 # Status
-This project is currently a **work in progress**, so please keep an eye on this GitHub project, but essentially you cannot build one yet. Sorry. Feel free to contribute improvements if you can.
+**This project is currently a work in progress, so please keep an eye on this GitHub project, but essentially you cannot build one yet. Sorry. Feel free to contribute improvements if you can.**
+
+Much of what is in this repo at the moment is notes to ourselves.
+
+# Parts
